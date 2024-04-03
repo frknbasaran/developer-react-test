@@ -1,3 +1,3 @@
-export * from "./Heatmap.props";
+export * from "../../../types/interfaces";
 export * from "./HandsontableWidget";
 export * from "./HighchartsWidget";
